@@ -4,7 +4,7 @@ https://jobs-api-236.herokuapp.com/
 
 #### This project was created with the help of tutorials by
 
-John Smilga
+John Smilga :
 https://github.com/john-smilga
 
 #### Setup
